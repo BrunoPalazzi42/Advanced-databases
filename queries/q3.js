@@ -1,5 +1,5 @@
 // Query 3
-// Trovare il quartiere con il maggior numero di furti nel mese di Dicembre 2015
+// Classifica quartieri con il maggior numero di furti nel mese di Dicembre 2015
 
 // Embedded
 
