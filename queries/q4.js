@@ -1,5 +1,5 @@
 //Query 4
-//Classifica quartieri per numero cristiani mostrando elenco numero crimini commessi nel quartiere nel Dicembre 2015.
+//Classifica decrescente quartieri per numero cristiani, mostrando elenco numero crimini commessi nel quartiere nel Dicembre 2015.
 
 var prima = new Date()
 db.collection.aggregate([
