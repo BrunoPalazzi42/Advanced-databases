@@ -1,5 +1,5 @@
 // Query 2
-// Classifica anni per furti effettuati.
+// Classifica decrescente anni per furti effettuati.
 
 
 // Embedded
