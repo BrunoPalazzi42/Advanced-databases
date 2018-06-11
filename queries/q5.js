@@ -1,5 +1,5 @@
 //Query 5
-//Classifica quartieri con più ebrei che buddisti mostrando elenco numero crimini commessi nel quartiere nel Dicembre 2015.
+//Classifica decrescente per numero ebrei dei quartieri con più ebrei che buddisti mostrando numero crimini commessi nel quartiere nel Dicembre 2015.
 var prima = new Date()
 db.collection.aggregate([
     {
